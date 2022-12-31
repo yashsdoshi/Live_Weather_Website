@@ -1,4 +1,4 @@
-## Live Weather Website
+### Live Weather Website
 
 The Website allows user to select any city and get the temperature, weather and an icon indicating the current weather back.
 
@@ -10,7 +10,7 @@ This is a simple website made using,
 4. <b>HTTPS</b> Module
 
 
-## To install modules and frameworks
+### To install modules and frameworks
 
 
 Run the commands from below in your vs-code project folder terminal.
@@ -21,6 +21,11 @@ Run the commands from below in your vs-code project folder terminal.
 ```
 
 The `https` is local in node so you dont have to separately download it.
+
+### Using Openweather API:
+
+1. Create a free account at -- https://openweathermap.org/
+2. Fllow the documentation for generating API key and further elaboration -- https://openweathermap.org/current
 
 ### Example prewview of website:
 
