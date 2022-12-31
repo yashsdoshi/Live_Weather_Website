@@ -22,5 +22,13 @@ Run the commands from below in your vs-code project folder terminal.
 
 The `https` is local in node so you dont have to separately download it.
 
+### Example prewview of website:
+
+![Screenshot 2022-12-31 145252](https://user-images.githubusercontent.com/39629707/210131776-70e73804-780b-433c-9def-4e426a753bd4.jpg)
+
+### Output of above example(After clicking on "Go!" Button):
+
+![Screenshot 2022-12-31 145940](https://user-images.githubusercontent.com/39629707/210131848-729cf283-540c-4895-b857-f7d69891bbc3.jpg)
+
 ### Note:
 I made this website while learning Full-Stack Web Development and please feel free to suggest any changes. Thanks!
