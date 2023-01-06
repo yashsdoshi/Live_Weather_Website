@@ -4,10 +4,10 @@ The Website allows user to select any city and get the temperature, weather and 
 
 This is a simple website made using,
 
-1. <b>Node.js</b> 
-2. <b>express.js</b>
-3. <b>Body-parser</b> Module
-4. <b>HTTPS</b> Module
+1. <b>`Node.js`</b> 
+2. <b>`express.js`</b>
+3. <b>`Body-parser`</b> Module
+4. <b>`HTTPS`</b> Module
 
 
 ### To install modules and frameworks
