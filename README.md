@@ -1,4 +1,4 @@
-### Live Weather Website
+# Live Weather Website
 
 The Website allows user to select any city and get the temperature, weather and an icon indicating the current weather back.
 
