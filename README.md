@@ -22,6 +22,20 @@ Run the commands from below in your vs-code project folder terminal.
 
 The `https` is local in node so you dont have to separately download it.
 
+## :octocat: Cloning this repo:
+- [x] Run the following command:
+```bash 
+git clone 'https://github.com/yashdoshi12/Live_Weather_Website.git' 
+```
+- [x] `cd` to the cloned folder:
+```bash 
+cd Blog_Website_Without_Database
+```
+- [x] Install required `npm` pakages
+```bash 
+npm i
+```
+
 ### :octocat: Using Openweather API:
 
 1. Create a free account at -- https://openweathermap.org/
