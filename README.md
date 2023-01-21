@@ -1,4 +1,4 @@
-# :octocat: Live Weather Website
+# :octocat: Live Weather Website using `Openweather API`
 
 The Website allows user to select any city and get the temperature, weather and an icon indicating the current weather back.
 
