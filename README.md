@@ -36,7 +36,7 @@ cd Blog_Website_Without_Database
 npm i
 ```
 
-### :octocat: Using Openweather API:
+### :octocat: Using `Openweather API`:
 
 1. Create a free account at -- https://openweathermap.org/
 2. Fllow the documentation for generating API key and further elaboration -- https://openweathermap.org/current
