@@ -45,7 +45,7 @@ npm i
 
 ![Screenshot 2022-12-31 145252](https://user-images.githubusercontent.com/39629707/210131776-70e73804-780b-433c-9def-4e426a753bd4.jpg)
 
-### :octocat: Output of above example(After clicking on "Go!" Button):
+### :octocat: Output of above example(After clicking on `Go!` Button):
 
 ![Screenshot 2022-12-31 145940](https://user-images.githubusercontent.com/39629707/210131848-729cf283-540c-4895-b857-f7d69891bbc3.jpg)
 
