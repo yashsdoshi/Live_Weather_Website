@@ -2,6 +2,9 @@
 
 The Website allows user to select any city and get the temperature, weather and an icon indicating the current weather back.
 
+- [x] I have not worked much on css and html for simplicity.
+- [x] This website will give you a clear understanding of how `Openweather API` works!
+
 This is a simple website made using,
 
 1. <b>`Node.js`</b> 
