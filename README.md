@@ -28,7 +28,7 @@ Run the commands from below in your vs-code project folder terminal.
 
 The `https` is local in node so you dont have to separately download it.
 
-## :octocat: Cloning this repo:
+## :octocat: Cloning this repo(Terminal Version):
 - [x] Run the following command:
 ```bash 
 git clone 'https://github.com/yashdoshi12/Live_Weather_Website.git' 
